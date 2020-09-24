@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vaetech/static/css/main.0764e5ba.chunk.css",
+    "main.css": "/vaetech/static/css/main.dbafe893.chunk.css",
     "main.js": "/vaetech/static/js/main.2f47e4e2.chunk.js",
     "main.js.map": "/vaetech/static/js/main.2f47e4e2.chunk.js.map",
     "runtime-main.js": "/vaetech/static/js/runtime-main.e880f461.js",
@@ -8,9 +8,9 @@
     "static/js/2.3745c368.chunk.js": "/vaetech/static/js/2.3745c368.chunk.js",
     "static/js/2.3745c368.chunk.js.map": "/vaetech/static/js/2.3745c368.chunk.js.map",
     "index.html": "/vaetech/index.html",
-    "precache-manifest.0ca670a6825b70e8403848492a2936ba.js": "/vaetech/precache-manifest.0ca670a6825b70e8403848492a2936ba.js",
+    "precache-manifest.b5012a60278acd510a8d73f727a4f5c4.js": "/vaetech/precache-manifest.b5012a60278acd510a8d73f727a4f5c4.js",
     "service-worker.js": "/vaetech/service-worker.js",
-    "static/css/main.0764e5ba.chunk.css.map": "/vaetech/static/css/main.0764e5ba.chunk.css.map",
+    "static/css/main.dbafe893.chunk.css.map": "/vaetech/static/css/main.dbafe893.chunk.css.map",
     "static/js/2.3745c368.chunk.js.LICENSE.txt": "/vaetech/static/js/2.3745c368.chunk.js.LICENSE.txt",
     "static/media/App.css": "/vaetech/static/media/roboto-light.9ff15bd3.ttf",
     "static/media/android.png": "/vaetech/static/media/android.146cfc56.png",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.e880f461.js",
     "static/js/2.3745c368.chunk.js",
-    "static/css/main.0764e5ba.chunk.css",
+    "static/css/main.dbafe893.chunk.css",
     "static/js/main.2f47e4e2.chunk.js"
   ]
 }

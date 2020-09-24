@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f80bcaa905addadbc2e6aa37d246e871",
+    "revision": "810364f3b78ec73e5137ae387fbbcc54",
     "url": "/vaetech/index.html"
   },
   {
-    "revision": "0d82c89d193a5f1cc570",
-    "url": "/vaetech/static/css/main.0764e5ba.chunk.css"
+    "revision": "f31c643c6d38ecb06317",
+    "url": "/vaetech/static/css/main.dbafe893.chunk.css"
   },
   {
     "revision": "4bb2355b0d75f0eb52ff",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaetech/static/js/2.3745c368.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d82c89d193a5f1cc570",
+    "revision": "f31c643c6d38ecb06317",
     "url": "/vaetech/static/js/main.2f47e4e2.chunk.js"
   },
   {
