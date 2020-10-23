@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af9300216a60b7fbc74b709ead7d150d",
+    "revision": "b2d1cb835b925fd7905c9443a39b6344",
     "url": "/vaetech/index.html"
   },
   {
-    "revision": "664eee1e1f2a62c2f688",
-    "url": "/vaetech/static/css/main.18361c09.chunk.css"
+    "revision": "fefb91760ecb8aaaed7b",
+    "url": "/vaetech/static/css/main.ace46a67.chunk.css"
   },
   {
-    "revision": "850ace197ec760243881",
-    "url": "/vaetech/static/js/2.e9d6665a.chunk.js"
+    "revision": "e71f39fb1891d3bccd4f",
+    "url": "/vaetech/static/js/2.b2a7190f.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/vaetech/static/js/2.e9d6665a.chunk.js.LICENSE.txt"
+    "url": "/vaetech/static/js/2.b2a7190f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "664eee1e1f2a62c2f688",
-    "url": "/vaetech/static/js/main.9e1039c0.chunk.js"
+    "revision": "fefb91760ecb8aaaed7b",
+    "url": "/vaetech/static/js/main.483cb725.chunk.js"
   },
   {
     "revision": "330fafbeea4a5a60de3d",
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaetech/static/media/Skranji-Regular.700f5bbc.woff"
   },
   {
-    "revision": "146cfc569fd699451283e7ac3406ccd8",
-    "url": "/vaetech/static/media/android.146cfc56.png"
+    "revision": "c71767b75cbe47b70e09960f8bf423db",
+    "url": "/vaetech/static/media/adwn.c71767b7.svg"
   },
   {
-    "revision": "a96971982a4ca2e74fe39cf5f80ebcd4",
-    "url": "/vaetech/static/media/androiddwn.a9697198.svg"
+    "revision": "146cfc569fd699451283e7ac3406ccd8",
+    "url": "/vaetech/static/media/android.146cfc56.png"
   },
   {
     "revision": "b940131211a5bb4e572f92cec16d890b",
@@ -164,7 +164,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaetech/static/media/webdev1.10c81203.png"
   },
   {
+    "revision": "8f355e4df014f9af7c8351bd261456a0",
+    "url": "/vaetech/static/media/webill.8f355e4d.svg"
+  },
+  {
     "revision": "265cb40ab44381cbd1cc4efd8db51e01",
     "url": "/vaetech/static/media/welcomeBtm.265cb40a.svg"
+  },
+  {
+    "revision": "c1c143e6b9399a3bc2c98516bdd0610f",
+    "url": "/vaetech/static/media/windwn.c1c143e6.svg"
   }
 ]);
