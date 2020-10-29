@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2d1cb835b925fd7905c9443a39b6344",
+    "revision": "9404a12970e61677bab368c12ca48bf9",
     "url": "/vaetech/index.html"
   },
   {
-    "revision": "fefb91760ecb8aaaed7b",
-    "url": "/vaetech/static/css/main.ace46a67.chunk.css"
+    "revision": "44d577536f02c9722a25",
+    "url": "/vaetech/static/css/main.4b90f02e.chunk.css"
   },
   {
-    "revision": "e71f39fb1891d3bccd4f",
-    "url": "/vaetech/static/js/2.b2a7190f.chunk.js"
+    "revision": "567ce4fda7b28d89d0e2",
+    "url": "/vaetech/static/js/2.a3579a95.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/vaetech/static/js/2.b2a7190f.chunk.js.LICENSE.txt"
+    "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
+    "url": "/vaetech/static/js/2.a3579a95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fefb91760ecb8aaaed7b",
-    "url": "/vaetech/static/js/main.483cb725.chunk.js"
+    "revision": "44d577536f02c9722a25",
+    "url": "/vaetech/static/js/main.dd136743.chunk.js"
   },
   {
     "revision": "330fafbeea4a5a60de3d",
@@ -64,8 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaetech/static/media/appsample3.d4f2de52.png"
   },
   {
-    "revision": "d70c1332f37bb66cc154d53888eb897d",
-    "url": "/vaetech/static/media/barlogo.d70c1332.svg"
+    "revision": "a0d5470e2a84b6d352bd2e5cd89e899f",
+    "url": "/vaetech/static/media/barlogo.a0d5470e.svg"
+  },
+  {
+    "revision": "8b6c8551bd3b8f7944730ae264323a68",
+    "url": "/vaetech/static/media/cat.8b6c8551.png"
   },
   {
     "revision": "7814e2709565631d7a334c15bb8203cc",
@@ -168,8 +172,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaetech/static/media/webill.8f355e4d.svg"
   },
   {
-    "revision": "265cb40ab44381cbd1cc4efd8db51e01",
-    "url": "/vaetech/static/media/welcomeBtm.265cb40a.svg"
+    "revision": "50cfc278458fded0c43a8ec5d5ecc3f3",
+    "url": "/vaetech/static/media/welcomeBtm.50cfc278.svg"
   },
   {
     "revision": "c1c143e6b9399a3bc2c98516bdd0610f",
