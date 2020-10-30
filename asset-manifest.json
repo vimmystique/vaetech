@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/vaetech/static/css/main.77ec7537.chunk.css",
-    "main.js": "/vaetech/static/js/main.8e3cf5c4.chunk.js",
-    "main.js.map": "/vaetech/static/js/main.8e3cf5c4.chunk.js.map",
+    "main.js": "/vaetech/static/js/main.6d221c9e.chunk.js",
+    "main.js.map": "/vaetech/static/js/main.6d221c9e.chunk.js.map",
     "runtime-main.js": "/vaetech/static/js/runtime-main.e880f461.js",
     "runtime-main.js.map": "/vaetech/static/js/runtime-main.e880f461.js.map",
     "static/js/2.a3579a95.chunk.js": "/vaetech/static/js/2.a3579a95.chunk.js",
     "static/js/2.a3579a95.chunk.js.map": "/vaetech/static/js/2.a3579a95.chunk.js.map",
     "index.html": "/vaetech/index.html",
-    "precache-manifest.bc6ec78a1f9cdbdbfeb89e1808413bca.js": "/vaetech/precache-manifest.bc6ec78a1f9cdbdbfeb89e1808413bca.js",
+    "precache-manifest.75ceac0199a05451a0e132b8bfee2bf9.js": "/vaetech/precache-manifest.75ceac0199a05451a0e132b8bfee2bf9.js",
     "service-worker.js": "/vaetech/service-worker.js",
     "static/css/main.77ec7537.chunk.css.map": "/vaetech/static/css/main.77ec7537.chunk.css.map",
     "static/js/2.a3579a95.chunk.js.LICENSE.txt": "/vaetech/static/js/2.a3579a95.chunk.js.LICENSE.txt",
     "static/media/App.css": "/vaetech/static/media/roboto-light.9ff15bd3.ttf",
     "static/media/adwn.svg": "/vaetech/static/media/adwn.c71767b7.svg",
     "static/media/android.png": "/vaetech/static/media/android.146cfc56.png",
-    "static/media/appdev2.png": "/vaetech/static/media/appdev2.b9401312.png",
     "static/media/appsample1.png": "/vaetech/static/media/appsample1.c7e770e5.png",
     "static/media/appsample2.png": "/vaetech/static/media/appsample2.acf15649.png",
     "static/media/appsample3.png": "/vaetech/static/media/appsample3.d4f2de52.png",
@@ -28,6 +27,7 @@
     "static/media/font-awesome.css": "/vaetech/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/foot.svg": "/vaetech/static/media/foot.998dbbd3.svg",
     "static/media/gh.svg": "/vaetech/static/media/gh.b83aa3c2.svg",
+    "static/media/global.png": "/vaetech/static/media/global.b9e9ea6b.png",
     "static/media/home.svg": "/vaetech/static/media/home.ca03c2e5.svg",
     "static/media/ios.png": "/vaetech/static/media/ios.b3b0cd52.png",
     "static/media/logo.svg": "/vaetech/static/media/logo.60d0589d.svg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.e880f461.js",
     "static/js/2.a3579a95.chunk.js",
     "static/css/main.77ec7537.chunk.css",
-    "static/js/main.8e3cf5c4.chunk.js"
+    "static/js/main.6d221c9e.chunk.js"
   ]
 }

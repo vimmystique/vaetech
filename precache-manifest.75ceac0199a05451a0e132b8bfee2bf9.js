@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29df6312fdec38ae1eb3f5240d26be12",
+    "revision": "953ec0e09ad3607beeacc902d1196119",
     "url": "/vaetech/index.html"
   },
   {
-    "revision": "cfacc3a223c43e6fbb22",
+    "revision": "4cffb723384660fe3ff2",
     "url": "/vaetech/static/css/main.77ec7537.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaetech/static/js/2.a3579a95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfacc3a223c43e6fbb22",
-    "url": "/vaetech/static/js/main.8e3cf5c4.chunk.js"
+    "revision": "4cffb723384660fe3ff2",
+    "url": "/vaetech/static/js/main.6d221c9e.chunk.js"
   },
   {
     "revision": "330fafbeea4a5a60de3d",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "146cfc569fd699451283e7ac3406ccd8",
     "url": "/vaetech/static/media/android.146cfc56.png"
-  },
-  {
-    "revision": "b940131211a5bb4e572f92cec16d890b",
-    "url": "/vaetech/static/media/appdev2.b9401312.png"
   },
   {
     "revision": "c7e770e5efe291c2b02a5e70e8bf980c",
@@ -114,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b83aa3c2ed2528a29e6cd5350f807096",
     "url": "/vaetech/static/media/gh.b83aa3c2.svg"
+  },
+  {
+    "revision": "b9e9ea6b1004747e7017aeae340b3ab7",
+    "url": "/vaetech/static/media/global.b9e9ea6b.png"
   },
   {
     "revision": "ca03c2e5a1e92138ba7e8e1f999862bb",
