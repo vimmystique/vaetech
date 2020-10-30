@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vaetech/static/css/main.77ec7537.chunk.css",
-    "main.js": "/vaetech/static/js/main.6d221c9e.chunk.js",
-    "main.js.map": "/vaetech/static/js/main.6d221c9e.chunk.js.map",
+    "main.js": "/vaetech/static/js/main.ead46489.chunk.js",
+    "main.js.map": "/vaetech/static/js/main.ead46489.chunk.js.map",
     "runtime-main.js": "/vaetech/static/js/runtime-main.e880f461.js",
     "runtime-main.js.map": "/vaetech/static/js/runtime-main.e880f461.js.map",
     "static/js/2.a3579a95.chunk.js": "/vaetech/static/js/2.a3579a95.chunk.js",
     "static/js/2.a3579a95.chunk.js.map": "/vaetech/static/js/2.a3579a95.chunk.js.map",
     "index.html": "/vaetech/index.html",
-    "precache-manifest.75ceac0199a05451a0e132b8bfee2bf9.js": "/vaetech/precache-manifest.75ceac0199a05451a0e132b8bfee2bf9.js",
+    "precache-manifest.69a6a116714476d43d86057fd784698c.js": "/vaetech/precache-manifest.69a6a116714476d43d86057fd784698c.js",
     "service-worker.js": "/vaetech/service-worker.js",
     "static/css/main.77ec7537.chunk.css.map": "/vaetech/static/css/main.77ec7537.chunk.css.map",
     "static/js/2.a3579a95.chunk.js.LICENSE.txt": "/vaetech/static/js/2.a3579a95.chunk.js.LICENSE.txt",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.e880f461.js",
     "static/js/2.a3579a95.chunk.js",
     "static/css/main.77ec7537.chunk.css",
-    "static/js/main.6d221c9e.chunk.js"
+    "static/js/main.ead46489.chunk.js"
   ]
 }
